@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 82
+  controlID: 69
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 67
+  controlID: 89
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -182,7 +182,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 81
+  controlID: 68
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -367,8 +367,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\ZBProjects\ZB_Repository\UnityShaderStudy2\Scriptable Rendering
-    Pipeline Study
+  m_LastProjectPath: E:\ZBProjects\ZB_Repository\UnityNewFeatures\ScriptableRenderingPipelineStudy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -568,9 +567,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -10.65336, y: -2.1314764, z: -7.789897}
+    m_Target: {x: -13.84367, y: -3.011729, z: 0.29076087}
     speed: 2
-    m_Value: {x: -10.65336, y: -2.1314764, z: -7.789897}
+    m_Value: {x: -13.84367, y: -3.011729, z: 0.29076087}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -598,13 +597,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.03273357, y: 0.90178657, z: -0.06940388, w: -0.4253149}
+    m_Target: {x: -0.06855418, y: 0.7087744, z: -0.069548, w: -0.69864315}
     speed: 2
-    m_Value: {x: -0.032733567, y: 0.90178645, z: -0.06940387, w: -0.42531484}
+    m_Value: {x: -0.068554185, y: 0.70877445, z: -0.06954801, w: -0.6986432}
   m_Size:
-    m_Target: 17.277826
+    m_Target: 17.138302
     speed: 2
-    m_Value: 17.277826
+    m_Value: 17.138302
   m_Ortho:
     m_Target: 0
     speed: 2

@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{FCEAC2FB-75D5-3FA2-E13B-83F9FC1937F3}</ProjectGuid>
+    <ProjectGuid>{39B279B5-14EB-BF01-9976-4F30D19B0913}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -71,16 +71,16 @@
     <None Include="Assets\SRP_Scripts\Shader\BaseDirLit.shader" />
     <None Include="Assets\SRP_Scripts\Shader\BaseDirLit2.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>E:/ZBProjects/ZB_Repository/UnityShaderStudy2/Scriptable Rendering Pipeline Study/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>E:/ZBProjects/ZB_Repository/UnityNewFeatures/ScriptableRenderingPipelineStudy/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/ZBProjects/ZB_Repository/UnityShaderStudy2/Scriptable Rendering Pipeline Study/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/ZBProjects/ZB_Repository/UnityNewFeatures/ScriptableRenderingPipelineStudy/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/ZBProjects/ZB_Repository/UnityShaderStudy2/Scriptable Rendering Pipeline Study/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>E:/ZBProjects/ZB_Repository/UnityNewFeatures/ScriptableRenderingPipelineStudy/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/ZBProjects/ZB_Repository/UnityShaderStudy2/Scriptable Rendering Pipeline Study/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/ZBProjects/ZB_Repository/UnityNewFeatures/ScriptableRenderingPipelineStudy/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity2018.2.3/Install/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
